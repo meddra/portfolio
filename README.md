@@ -68,9 +68,9 @@ __The Complete SQL Bootcamp: Go from Zero to Hero__
 ### Test cases and work in Jira
 
 * [Here is the training web page](https://computer-database.gatling.io/computers) that was used to create demo test cases for *Computer database project*.
-  * Test cases for checking the "Add a new computer" functionality. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_IkgUC6JjluY1P4yjRqjRa5bCMjPrTxeXQz0S-vQCmY/edit#gid=264145779)
-  * Test cases for checking the Edit form with Gherkin syntax for steps. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_IkgUC6JjluY1P4yjRqjRa5bCMjPrTxeXQz0S-vQCmY/edit#gid=1998003479)
-  * Test cases for checking the Delete form with Gherkin syntax for steps. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_IkgUC6JjluY1P4yjRqjRa5bCMjPrTxeXQz0S-vQCmY/edit#gid=446031779)
+  * Test cases for checking the "Add a new computer" functionality. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_IkgUC6JjluY1P4yjRqjRa5bCMjPrTxeXQz0S-vQCmY/edit#gid=264145779).
+  * Test cases for checking the "Edit form" with Gherkin syntax for steps. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_IkgUC6JjluY1P4yjRqjRa5bCMjPrTxeXQz0S-vQCmY/edit#gid=1998003479).
+  * Test cases for checking the "Delete form" with Gherkin syntax for steps. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_IkgUC6JjluY1P4yjRqjRa5bCMjPrTxeXQz0S-vQCmY/edit#gid=446031779).
   
 ### Bug reports
   *  [Screenshot](https://tinyurl.com/2y9hb34t) of blocker bug reported in Jira that was found on the create form.
@@ -79,7 +79,7 @@ __The Complete SQL Bootcamp: Go from Zero to Hero__
 
 ### CafeTownsend project
 
-* Test cases for checking the "Login" functionality. Check [the Google doc here](https://docs.google.com/document/d/1Ww9YuMAQdG_HL2VG2bpqOx1yHFLtNZ0JQ4wvmquvog8/edit?usp=sharing)
-* Test cases for checking the "Create new employee" functionality. Check [the Google doc here](https://docs.google.com/document/d/1pT9EBJlsjyFKRsU9UJ5CjgjOZvfGv0d524vnBdaHI5Y/edit?usp=sharing)
-* Test cases for checking the "Update employee's data" functionality. Check [the Google doc here](https://docs.google.com/document/d/1MwsnXGGvPNVstFs3SRVEQxr3fSnWjw-s7tNFX7Wt-ds/edit?usp=sharing)
-* Test cases for checking the "Delete employee" functionality. Check [the Google doc here](https://docs.google.com/document/d/1UICkmZ6xB7Z7ru1RceBsao6CCxXro0SNtk73gugVeC0/edit?usp=sharing)
+* Test cases for checking the "Login" functionality. Check [the Google doc here](https://docs.google.com/document/d/1Ww9YuMAQdG_HL2VG2bpqOx1yHFLtNZ0JQ4wvmquvog8/edit?usp=sharing).
+* Test cases for checking the "Create new employee" functionality. Check [the Google doc here](https://docs.google.com/document/d/1pT9EBJlsjyFKRsU9UJ5CjgjOZvfGv0d524vnBdaHI5Y/edit?usp=sharing).
+* Test cases for checking the "Update employee's data" functionality. Check [the Google doc here](https://docs.google.com/document/d/1MwsnXGGvPNVstFs3SRVEQxr3fSnWjw-s7tNFX7Wt-ds/edit?usp=sharing).
+* Test cases for checking the "Delete employee" functionality. Check [the Google doc here](https://docs.google.com/document/d/1UICkmZ6xB7Z7ru1RceBsao6CCxXro0SNtk73gugVeC0/edit?usp=sharing).
