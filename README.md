@@ -67,12 +67,12 @@ __The Complete SQL Bootcamp: Go from Zero to Hero__
 
 ### Test cases and work in Jira
 
-* [Here is the training web page](https://computer-database.gatling.io/computers) that was used to create demo test cases for *Computer database project*.
+* [Here is the training web page](https://computer-database.gatling.io/computers) that was used to create demo test cases for *Computer database* project.
   * Test cases for checking the "Add a new computer" functionality. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_IkgUC6JjluY1P4yjRqjRa5bCMjPrTxeXQz0S-vQCmY/edit#gid=264145779).
   * Test cases for checking the "Edit form" with Gherkin syntax for steps. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_IkgUC6JjluY1P4yjRqjRa5bCMjPrTxeXQz0S-vQCmY/edit#gid=1998003479).
   * Test cases for checking the "Delete form" with Gherkin syntax for steps. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1_IkgUC6JjluY1P4yjRqjRa5bCMjPrTxeXQz0S-vQCmY/edit#gid=446031779).
   
-### Bug reports
+### Bug reports for the *Computer database* project
   *  [Screenshot](https://tinyurl.com/2y9hb34t) of blocker bug reported in Jira that was found on the create form.
   *  [Screenshot](https://tinyurl.com/29c7w76y) of blocker bug reported in Jira that was found on the edit form.
   *  [Screenshot](https://tinyurl.com/2y24ogqy) of blocker bug reported in Jira that was found on the delete form.
