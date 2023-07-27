@@ -20,7 +20,7 @@ My next career goal is to obtain the ISTQB certification and acquire proficiency
 
 ## CV
 
-I have made my CV available for download as a [PDF file on my Google Drive](https://drive.google.com/file/d/1y9-THo0wlKfXtiaatHqof0U434_bFpk-/view?usp=sharing).
+I have made my CV available for download as a [PDF file on my Google Drive](https://drive.google.com/file/d/10lknmNEvAIVDnsBzkEWPeUhXio-MoL84/view?usp=sharing).
 
 ## Skills
 
