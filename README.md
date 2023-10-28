@@ -20,7 +20,7 @@ My next career goal is to obtain the ISTQB certification and acquire proficiency
 
 ## CV
 
-I have made my CV available for download as a [PDF file on my Google Drive](https://drive.google.com/file/d/1VUpVTPdHvtVm43wZq2gDs7kY8MDxsTt_/view?usp=sharing).
+I have made my CV available for download as a [PDF file on my Google Drive](https://drive.google.com/file/d/1vLD2VDhYDDYsK4ZbhN1nsaRVSB89mJD3/view?usp=sharing).
 
 ## Skills
 
@@ -37,8 +37,6 @@ __HTML and CSS Basics__
 * know how to utilize HTML tags like headings, paragraphs, lists, and links to structure the content of the webpage
 * can also use attributes like class and id for styling and targeting specific elements 
 * can apply CSS properties for font styles, sizes, colors, spacing, and backgrounds
-
-[This is my website](https://draganamedos.github.io/my-site/) to showcase my HTML and CSS skills.
 
 ## Tools
 
