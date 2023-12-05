@@ -15,7 +15,7 @@ Previously, I worked as a research analyst and CRM administrator. These roles ta
 
 I understand the importance of effective teamwork and open communication in delivering successful projects. I am always eager to learn from others, share knowledge, and contribute to a positive and productive team environment.
 
-My next career goal is to obtain the ISTQB certification and acquire proficiency in API testing.
+My next career goal is to acquire proficiency in API testing.
 
 
 ## CV
