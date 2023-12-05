@@ -38,7 +38,7 @@ __HTML and CSS Basics__
 * can also use attributes like class and id for styling and targeting specific elements 
 * can apply CSS properties for font styles, sizes, colors, spacing, and backgrounds
 
-[Check out my website](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/](https://meddra.github.io/my-site/) — I made it to show off what I can do with HTML and CSS.
+*[Check out my website](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/](https://meddra.github.io/my-site/) — I made it to show off what I can do with HTML and CSS.
 
 ## Tools
 
